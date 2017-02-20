@@ -6,6 +6,7 @@
 .metadata
 bin/
 tmp/
+build/
 *.tmp
 *.bak
 *.swp
@@ -171,4 +172,3 @@ fabric.properties
 # *.ipr
 
 # End of https://www.gitignore.io/api/eclipse,node,git,webstorm
-
